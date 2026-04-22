@@ -13,3 +13,6 @@ This project demonstrates Git and GitHub collaboration.
 - Git
 - GitHub
 - Markdown
+## Project Structure
+- chapter1.md (Renita)
+- chapter2.md (Dev2)

@@ -6,6 +6,7 @@ This project is a collaborative Markdown knowledge base created to demonstrate t
 ---
 
 ## Contributions
+Dev2 was simulated using a separate Git branch to demonstrate collaboration workflows.
 
 ### Renita (Main Contributor)
 - Created the GitHub repository and initial project structure
@@ -58,7 +59,7 @@ The following Git features and processes were used:
 - Pull Requests are useful for collaboration and code review
 - GitHub Issues help manage and organize tasks effectively
 - Version control is essential for teamwork and software development
-
+This project helped me understand real-world Git workflows used in software development teams.
 ---
 
 ## Conclusion
